@@ -15,6 +15,8 @@
         <module>interview-learn</module>
         <module>juc-learn</module>
         <module>se-learn</module>
+        <module>spi-learn01</module>
+        <module>spi-learn01/spi-dictionary-framework</module>
     </modules>
 
     <properties>
